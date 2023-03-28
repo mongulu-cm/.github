@@ -4,6 +4,6 @@ The **mongulu** collective was born from a desire to promote the creation of fre
 
 # Links
 
-- ### [🌍 Website](https://mongulu.cm): The website.
+- ### [🌍 Website](https://www.mongulu.cm): The website.
 - ### [💻 Project Tracker](https://github.com/orgs/mongulu-cm/projects/2/views/4): Full GitHub project overview.
-- ### [🧰 Internal Tools](https://lobembe.mongulu.cm/)
+- ### [🧰 Internal Tools](https://lobembe.mongulu.cm/): All tools we used internally
